@@ -45,8 +45,6 @@ for i in input_S1_files:
  
 df_s1_read=pd.DataFrame({'Name': name, 'Sensing Mode': sensing_mode, 'Product Type':product_type,'Polarization':polarization,'Height':height})
 
- 
- 
 x, y, width, height=12000, 8000, 5500,5500
 # Subset Operator snappy
  
