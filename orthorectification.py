@@ -1,7 +1,7 @@
 import matplotlib.colors as colors
 import matplotlib.image as mpimg
 import matplotlib.pyplot as plt
-from termcolor import colored
+# from termcolor import colored
 from zipfile import ZipFile
 from os.path import join
 from glob import iglob
